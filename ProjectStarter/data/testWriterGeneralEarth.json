@@ -1,0 +1,32 @@
+{
+    "current rocket": "N1 Rocket",
+    "name": "Write Earth General",
+    "rockets": [
+        {
+            "displacement Y": 6378000.001511627,
+            "acceleration X": 0,
+            "mass": 1000,
+            "acceleration Y": 0.20155027023304867,
+            "name": "Saturn V",
+            "angle": 0,
+            "velocity Y": 0.020155026945895133,
+            "displacement X": 0,
+            "thrust Y": 10000,
+            "thrust X": 0,
+            "velocity X": 0
+        },
+        {
+            "displacement Y": 6378000.000503875,
+            "acceleration X": 0,
+            "mass": 1000,
+            "acceleration Y": 0.201550268684854,
+            "name": "N1 Rocket",
+            "angle": 0,
+            "velocity Y": 0.0100775134342427,
+            "displacement X": 0,
+            "thrust Y": 10000,
+            "thrust X": 0,
+            "velocity X": 0
+        }
+    ]
+}

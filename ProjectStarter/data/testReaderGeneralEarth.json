@@ -1,0 +1,32 @@
+{
+    "current rocket": "Discovery",
+    "name": "Read Earth General",
+    "rockets": [
+        {
+            "displacement Y": 6824951.5219,
+            "acceleration X": 41.1241241,
+            "mass": 1000,
+            "acceleration Y": 40.20155150390854,
+            "name": "Atlas V",
+            "angle": 22,
+            "velocity Y": 4.020155042308783,
+            "displacement X": 32341.2415,
+            "thrust Y": 50000,
+            "thrust X": 2000,
+            "velocity X": 13.52525343
+        },
+        {
+            "displacement Y": 3185490.23515,
+            "acceleration X": 3.235123,
+            "mass": 1000,
+            "acceleration Y": 14.235462,
+            "name": "Discovery",
+            "angle": -34,
+            "velocity Y": 57.3542535,
+            "displacement X": -2352.11235132,
+            "thrust Y": 50000,
+            "thrust X": 4000,
+            "velocity X": 23.2353446
+        }
+    ]
+}

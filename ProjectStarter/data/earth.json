@@ -1,0 +1,58 @@
+{
+    "current rocket": "Rocket",
+    "name": "Earth",
+    "rockets": [
+        {
+            "displacement Y": 1.054821807099721E7,
+            "acceleration X": 0.4030472724824065,
+            "mass": 1000,
+            "acceleration Y": -3.5127748401049654,
+            "name": "Saturn V",
+            "angle": 24,
+            "velocity Y": 533.5033200976704,
+            "displacement X": -1209973.791055018,
+            "thrust Y": 0,
+            "thrust X": 0,
+            "velocity X": 6002.555561654915
+        },
+        {
+            "displacement Y": -1.5156075088246318E7,
+            "acceleration X": -0.5996455638177896,
+            "mass": 1000,
+            "acceleration Y": 0.5744580101571526,
+            "name": "N1 Rocket",
+            "angle": 234,
+            "velocity Y": -1566.39136165035,
+            "displacement X": 1.5820361930617573E7,
+            "thrust Y": -0,
+            "thrust X": -0,
+            "velocity X": -3223.6628084560625
+        },
+        {
+            "displacement Y": 4295488.18516367,
+            "acceleration X": 4.56945847837755,
+            "mass": 1000,
+            "acceleration Y": -2.5896295608954807,
+            "name": "Atlas",
+            "angle": -2,
+            "velocity Y": 5893.402577867819,
+            "displacement X": -7578798.444333247,
+            "thrust Y": 0,
+            "thrust X": -0,
+            "velocity X": 3304.998060990556
+        },
+        {
+            "displacement Y": 1187991.8189297316,
+            "acceleration X": 5.064078661320037,
+            "mass": 1000,
+            "acceleration Y": -0.6872646011363607,
+            "name": "Rocket",
+            "angle": -2,
+            "velocity Y": 6649.068163243273,
+            "displacement X": -8751165.983900452,
+            "thrust Y": 0,
+            "thrust X": -0,
+            "velocity X": 985.077688804916
+        }
+    ]
+}

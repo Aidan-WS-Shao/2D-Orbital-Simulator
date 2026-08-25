@@ -1,0 +1,17 @@
+{
+    "current rocket": "Rocket 2",
+    "name": "Earth",
+    "rockets": [{
+        "displacement Y": 6378000,
+        "acceleration X": 0,
+        "mass": 1000,
+        "acceleration Y": 0,
+        "name": "Rocket 2",
+        "angle": 0,
+        "velocity Y": 0,
+        "displacement X": 0,
+        "thrust Y": 0,
+        "thrust X": 0,
+        "velocity X": 0
+    }]
+}
